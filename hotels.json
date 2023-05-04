@@ -1,0 +1,40 @@
+{
+	"hotels": [
+		{
+			"name": "Hotel A",
+			"rooms": [
+				{
+					"name": "Standard Room",
+					"size": "25",
+					"facilities": ["Free Wi-Fi", "Air Conditioning", "TV"],
+					"capacity": "2",
+					"description": "A cozy and comfortable room perfect for couples or solo travelers."
+				}
+			]
+		},
+		{
+			"name": "Hotel B",
+			"rooms": [
+				{
+					"name": "Deluxe Room",
+					"size": "35",
+					"facilities": ["Free Wi-Fi", "Air Conditioning", "TV", "Balcony"],
+					"capacity": "3",
+					"description": "A spacious and luxurious room with a beautiful view from the balcony."
+				}
+			]
+		},
+		{
+			"name": "Hotel C",
+			"rooms": [
+				{
+					"name": "Suite Room",
+					"size": "50",
+					"facilities": ["Free Wi-Fi", "Air Conditioning", "TV", "Living Room", "Kitchenette"],
+					"capacity": "4",
+					"description": "An elegant and fully-equipped suite perfect for families or groups."
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,104 @@
+/* --gold: #b4a258;
+--gold-dark: #9d9057;
+--elite-jade: #677719;
+--elite-ruby: #943236;
+--elite-diamond: #395173;
+--elite-platinum: #858689;
+--elite-royal: #3d2b54; */
+
+
+* {
+    font-family: 'Raleway', sans-serif;
+    color: bisque;
+}
+
+section {
+    background-color: #9d9057;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+  
+.img-zoom {
+    transition: transform 0.5s ease;
+}
+  
+.img-zoom:hover {
+    transform: scale(1.1);
+}
+  
+  
+
+.about-us-img {
+    max-width: 600px;
+    height: auto;
+    max-height: 400px;
+    width: 100%;
+}
+
+.special-deal-img {
+    max-width: 500px;
+    height: auto;
+    max-height: 300px;
+    width: 100%;
+}
+
+#about-us {
+    background-color: #395173;
+}
+
+#special-deal-1  {
+    background-color: #9d9057;
+}
+
+#special-deal-1 p, #special-deal-1 h2 {
+    color: white;
+}
+
+#special-deal-2 a {
+    color: bisque;
+    border: bisque solid 1px;
+}
+
+#special-deal-2 {
+    background-color: #636364 ;
+}
+
+#special-deal-2 p, h2 {
+    color: bisque
+}
+
+#special-deal-2 a:hover {
+    background-color: bisque;
+    color: black;
+}
+
+.card {
+    background-color: #943236;
+}
+
+
+.card-img-top {
+   height: 250px;
+}
+
+form h3, label {
+    color: white;
+}
+
+option {
+    color: black;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+i {
+    color: black;
+}
